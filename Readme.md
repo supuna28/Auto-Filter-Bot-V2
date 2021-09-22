@@ -57,8 +57,8 @@ OR
 ------------------
 * ->__Your Bot Token From [@BotFather](http://www.telegram.dog/BotFather)__
 
-* ->__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)__
-
+* ->__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org) or [@MT_MyTelegramOrg_Bot](http://www.telegram.dog/MT_MyTelegramOrg_Bot)__
+InlineKeyboardMarkup(buttons)
 * ->__Your User Session String Obtained From [@PyrogramStringBot](http://www.telegram.dog/PyrogramStringBot)__
 
 * ->__Mongo DB URL Obtained From [Mongo DB](http://www.mongodb.com)__
